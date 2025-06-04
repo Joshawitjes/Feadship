@@ -17,3 +17,10 @@ Use the sidebar to navigate:
 """)
 
 st.image(image, caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto", use_container_width=False)
+
+# TO DO:
+# - kubus volume kan je niet aanpassen !
+# Correlatie matrix filter automatiseren
+# User friendly maken, interpreteerbaar maken metrics: MAPE of confidence intervals, voorspellings range
+# navigeren makkelijker maken, onthouden geschiedenis
+# Eventueel predictions Variable Tool verbeteren/weghalen
