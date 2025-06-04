@@ -1,6 +1,6 @@
 # To run type in terminal:
 # cd Tool_App 
-# python -m streamlit run script_hello.py
+# python -m streamlit run Home.py or C:\Users\sdv.werkstudent\.conda\envs\tool_app\python.exe -m streamlit run Home.py
 import streamlit as st
 from streamlit import __main__
 import os
@@ -17,4 +17,3 @@ Use the sidebar to navigate:
 """)
 
 st.image(image, caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto", use_container_width=False)
-st.write("This is a Github test")
